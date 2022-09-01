@@ -49,17 +49,18 @@ h1{
 
 img{
     width: 100px;
+    float: left;
 }
 
 .email, .ruolo, .nome{
-    padding: left 30px;
+   
     padding-top: 10px;
-    padding-bottom: 10px;
     vertical-align: middle;
+    
 }
 
 .email{
-    color:blue
+    color:blue;
 }
 
 .ruolo{
